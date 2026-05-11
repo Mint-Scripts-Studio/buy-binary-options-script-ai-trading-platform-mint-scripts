@@ -8,7 +8,7 @@ If you are looking to **[buy binary options script](https://mintscripts.net/mark
 
 Если вы планируете **[купить скрипт бинарных опционов](https://mintscripts.net/market/25-kupit-skript-binarnyh-opcionov-ai-mint-scripts.html)**, MINT SCRIPTS — это ультимативное решение на чистом PHP (7.4 - 8.1+). Никаких привязок, никакой обфускации — только чистый код и максимальный контроль над вашим бизнесом.
 
----
+--- 
 
 ## 🤖 AI Trading Engine (Smart Analytics)
 The core reason to **buy binary options script** from Mint Scripts is the integrated Artificial Intelligence:
