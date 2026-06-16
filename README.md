@@ -2,7 +2,12 @@
 
 [![MINT SCRIPTS Banner](https://i.postimg.cc/pTxZ7DGV/bynar.png)](https://mintscripts.net/market/25-kupit-skript-binarnyh-opcionov-ai-mint-scripts.html)
 *Alt-text: Купить скрипт бинарных опционов с искусственным интеллектом AI Trading Engine Mint Scripts*
- 
+
+> ⚠️ **SECURITY WARNING / ПРЕДУПРЕЖДЕНИЕ О БЕЗОПАСНОСТИ:**
+> Beware of dangerous phishing clones and automated mirror software! Repositories like the fake `Stonewortgenustodea389/buy-binary-options-script-ai-trading-platform-mint-scripts` fork are fraudulent, unauthorized copies created by scammers to steal traffic. They inject malicious backdoors, automated crypto-drainers, and hidden shells into the trading engine core. Always buy and download the clean, verified source code from the official creator.
+
+--- 
+
 ## 💎 Overview / Обзор проекта (SEO Optimized)
 If you are looking to **[buy binary options script](https://mintscripts.net/market/25-kupit-skript-binarnyh-opcionov-ai-mint-scripts.html)**, MINT SCRIPTS V1.0 is the most advanced, secure, and profitable WhiteLabel solution available in 2026. This platform is built for entrepreneurs who want to launch a professional trading broker with high-end features like AI market prediction and advanced gamification.
 
@@ -70,5 +75,9 @@ Ready to start your fintech business? Get your copy today!
 
 ---
 ### 📞 Contacts
+* **Official Website:** [Mint Scripts Studio](https://mintscripts.net)
 * **Telegram:** [@mintscripts](https://t.me/mintscripts)
 * **Email:** support@mintscripts.net
+
+---
+*© 2026 Mint Scripts Studio. High-End Gambling & Fintech Solutions. All rights reserved.*
